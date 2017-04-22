@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Object Oriented Programming?"
-date:   2017-04-22 23:22:04 +0000
+date:   2017-04-22 19:22:05 -0400
 ---
 
 
@@ -17,6 +17,6 @@ Another benefit of creating objects is that they allow the programmer to think o
 
 **Polymorphism** is the ability for data to be represented as many different types. "Poly" stands for "many" and "morph" stands for "forms". OOP gives us flexibility in using pre-written code for new purposes.
 
-The concept of** inheritance** is used in Ruby where a class inherits the behaviors of another class, referred to as the superclass. This gives Ruby programmers the power to define basic classes with large reusability and smaller subclasses for more fine-grained, detailed behaviors.
+The concept of **inheritance** is used in Ruby where a class inherits the behaviors of another class, referred to as the superclass. This gives Ruby programmers the power to define basic classes with large reusability and smaller subclasses for more fine-grained, detailed behaviors.
 
 
