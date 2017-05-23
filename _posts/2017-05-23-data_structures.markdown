@@ -1,15 +1,14 @@
 ---
 layout: post
 title:  Data Structures
-date:   2017-05-23 20:20:34 +0000
+date:   2017-05-23 16:20:35 -0400
 ---
 
 
 **Data Structures** are the programmatic way of storing data so that data can be used efficiently.  The following are the
 various types of Data Structures:
 
-
-* Stack
+* Stacks
 * Queue
 * Linked-lists
 * Graphs
