@@ -18,7 +18,7 @@ various types of Data Structures:
 
 The following are the various examples in which we can use Data Structures:
 
-* You have to store social network “feeds”.  You do not know the size, andthings may need to be dynamically added.
+* You have to store social network “feeds”.  You do not know the size, and things may need to be dynamically added.
 
 * You need to store undo/redo operations in a word processor.
 
