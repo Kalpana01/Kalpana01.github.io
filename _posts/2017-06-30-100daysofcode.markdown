@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "100DaysOfCode"
+date:   2017-06-30 22:13:53 +0000
+---
+
+
+I want to share a list of intersting articles which I found on the internet. Here is the link:
+
+https://medium.freecodecamp.org/what-i-learned-from-my-first-100daysofcode-13ac805ff0a9
+
+https://medium.com/@amit_tushar/part-uh-what-does-it-take-to-be-a-full-stack-developer-a82c449ec969
+
+
